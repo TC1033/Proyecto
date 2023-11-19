@@ -1,0 +1,1 @@
+Folder para almacenar los archivos binarios del proyecto
